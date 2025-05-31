@@ -137,36 +137,147 @@
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "النانو سيراميك",
-          "alternateName": "Nano Ceramic Coating",
-          "description": "طلاء النانو سيراميك لحماية طلاء السيارة"
+          "name": "فيلم الحماية الشفاف - XPEL ULTIMATE PLUS PPF",
+          "alternateName": "Paint Protection Film - XPEL ULTIMATE PLUS",
+          "description": "التغليف الكامل للسيارة من الصدام للصدام بفيلم إكسبل ألتميت بلس الأمريكي",
+          "brand": {
+            "@type": "Brand",
+            "name": "XPEL"
+          },
+          "serviceType": "Paint Protection Film",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Self-Healing",
+              "value": "معالجة ذاتية من الخدوش"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Anti-Yellowing",
+              "value": "عدم التحول إلى اللون الأصفر"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Protection",
+              "value": "حماية من الخدوش ورمال الطريق"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Transparency",
+              "value": "شفاف تماماً غير مرئي"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Enhancement",
+              "value": "إضافة لمسة جمالية للون السيارة"
+            }
+          ],
+          "warranty": {
+            "@type": "WarrantyPromise",
+            "durationOfWarranty": "P6Y"
+          }
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "أفلام الحماية PPF",
-          "alternateName": "Paint Protection Film",
-          "description": "أفلام الحماية الشفافة لحماية طلاء السيارة من الخدوش"
+          "name": "عازل حراري - XPEL PRIME XR FILM",
+          "alternateName": "Thermal Insulation - XPEL ROYAL CERAMIC FILM",
+          "description": "إكسبل رويال سيراميك فيلم للعزل الحراري والحماية من الأشعة الشمسية",
+          "brand": {
+            "@type": "Brand",
+            "name": "XPEL"
+          },
+          "serviceType": "Window Tinting",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glare Reduction",
+              "value": "عزل 95% من الوهج الشمسي"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "UV Protection",
+              "value": "عزل 99% من الأشعة الضارة UV"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Heat Rejection IR",
+              "value": "عزل 89% للحرارة IR"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Total Solar Energy Rejected (TSER)",
+              "value": "إجمالي رفض الطاقة 68%"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technology",
+              "value": "تكنولوجيا التصنيع من طبقات النانو المدمجة - براءة اختراع مسجلة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Origin",
+              "value": "صناعة أمريكية"
+            }
+          ],
+          "warranty": {
+            "@type": "WarrantyPromise",
+            "durationOfWarranty": "P15Y"
+          }
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "العزل الحراري",
-          "alternateName": "Thermal Insulation",
-          "description": "خدمات العزل الحراري للسيارات"
+          "name": "نانو سيراميك لداخلية السيارة - CARPRO NANO CERAMIC",
+          "alternateName": "Interior Nano Ceramic Protection - CARPRO",
+          "description": "حماية السيارة من الداخل بالنانو سيراميك للمقاعد والطابلوه والأبواب",
+          "brand": {
+            "@type": "Brand",
+            "name": "CARPRO"
+          },
+          "serviceType": "Interior Protection",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Coverage Areas",
+              "value": "مقاعد، طابلوه، أبواب"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Protection Type",
+              "value": "نانو سيراميك للحماية الداخلية"
+            }
+          ]
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "التلميع الاحترافي",
-          "alternateName": "Professional Car Polishing",
-          "description": "خدمات التلميع الاحترافي للسيارات"
+          "name": "نانو سيراميك للجنوط - CARPRO WHEELS CERAMIC",
+          "alternateName": "Wheel Nano Ceramic Protection - CARPRO",
+          "description": "حماية الجنوط بالنانو سيراميك المتخصص",
+          "brand": {
+            "@type": "Brand",
+            "name": "CARPRO"
+          },
+          "serviceType": "Wheel Protection",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Application",
+              "value": "حماية خاصة للجنوط"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product Type",
+              "value": "نانو سيراميك متخصص للجنوط"
+            }
+          ]
         }
       }
     ]
