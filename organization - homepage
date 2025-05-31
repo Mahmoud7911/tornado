@@ -82,6 +82,53 @@
     "bestRating": "5",
     "worstRating": "1"
   },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Nabeel Ghazzawi"
+      },
+      "datePublished": "2025-05-25",
+      "reviewBody": "شغل رائع جدا ماشاءالله تبارك الله عملت PPF كامل السيارة BMW مع عازل حراري نوع رائع جدا مع التجربة في شدة الحرارة فرق كبير جدا عن العوازل الأخرى شكرا محمد الرحيلي",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Yousef Otaibe"
+      },
+      "datePublished": "2025-05-24",
+      "reviewBody": "والمحل شغله للامانه على مستوى ونظيف والاستاذ حسين امين ومابيقصر مع الزبون اللي يجيه",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Almontashri"
+      },
+      "datePublished": "2025-03-25",
+      "reviewBody": "ما شاء الله تبارك الله الله يعطيكم العافية الصراحة شغل راقي ومرتب جدا استمروا الله يبارك لكم . سويت عندهم فل بكج والصراحة ما شاء الله طريقة قص PPF جداً رهيبة ومو واضح انك مركب",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "Car Protection Services",
